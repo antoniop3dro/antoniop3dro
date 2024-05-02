@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**antoniop3dro/antoniop3dro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">☺️  Hello, World!  ☺️<p></p></h1>
+  <h3 align="center">💬</h3><h2 align="center">My name is Antonio Pedro, <br>I'm an eager-to-learn software engineer student from Brazil.<p></p></h2>
+  <h3 align="center">💻</h3><h3 align="center">Starting fresh in IT</h3>
+    <p align="center">As of now, i'm building basic projects for courses and getting the hang of programming logics.</p>
+<hr>
+  <h3 align="center">🎓</h3><h3 align="center">Attending my first year of Software Engineer Bachelor's program</h3>
+    <p align="center">You will find me studying at Centro Universitário Internacional - Uninter;</p>
+    <p align="center">Looking forward to learning more about web development, game development, UI/UX design and cybersecurity.</p>
+<hr>
+  <h3 align="center">🌱</h3><h3 align="center">Personal study roadmap and goal alignment</h3>
+    <p align="center">First, to work on my mathematical logic basics and principles;</p>
+    <p align="center">Second, to study CS50 to build a solid foundation on computer science;</p>
+    <p align="center">Third, to explore multiple programming languages with focus mainly in front-end development.</p>
+<hr>
+  <h3 align="center">🫰</h3><h3 align="center">Feel free to reach out!</h3>
+    <p align="center">Open for comments, opinions, observations, reviews, teachings, critiques and the sorts;</p>
+    <p align="center">Open to collaborating with other like-minded students who are also just starting.</p>
+<hr>
+  <h3 align="center">🏆</h3><h3 align="center">Achievements</h3>
+    <table style="width: 100%;">
+    <tr>
+      <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8816002" target="_blank"><img src="https://cdn.qwiklabs.com/YH87OPn%2BJ58SW%2FfXcBJqRLKEQaMvCMOrseSFjWOlYK8%3D" alt="Implement Load Balancing on Compute Engine" style="width: 100%; height: auto;"></a></td>
+      <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8824150" target="_blank"><img src="https://cdn.qwiklabs.com/t0b88bg6YHVVcyfjgBBGP%2BmVfr2k8zm1qrR9os9JBLc%3D" alt="Set Up an App Dev Environment on Google Cloud" style="width: 100%; height: auto;"></a></td>
+      <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8826100" target="_blank"><img src="https://cdn.qwiklabs.com/%2Fb6vXtWRtaGoDla7LMwPf7bX6UgDdY81abF2IU9Ouyc%3D" alt="Build a Secure Google Cloud Network" style="width: 100%; height: auto;"></a></td>
+      <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8826934" target="_blank"><img src="https://cdn.qwiklabs.com/sJCjZDimTgyE9u1WSbBbnl5XOOupgoNQNddY2TztNKw%3D" alt="Prepare Data for ML APIs on Google Cloud" style="width: 100%; height: auto;"></a></td>
+    </tr>
+    </table>
