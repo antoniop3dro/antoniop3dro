@@ -25,3 +25,6 @@
       <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8826934" target="_blank"><img src="https://cdn.qwiklabs.com/sJCjZDimTgyE9u1WSbBbnl5XOOupgoNQNddY2TztNKw%3D" alt="Prepare Data for ML APIs on Google Cloud" style="width: 100%; height: auto;"></a></td>
     </tr>
     </table>
+<hr>
+  <h3 align="center">📊</h3><h3 align="center">Personal Stats</h3>
+      <a align="center"><img src="https://github-readme-stats-three-tau-72.vercel.app/api/top-langs/?username=antoniop3dro&layout=donut-vertical" alt="antoniop3dro's Github stats" style="width: 35%; height: auto;"/></a>
