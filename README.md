@@ -27,4 +27,4 @@
     </table>
 <hr>
   <h3 align="center">📊</h3><h3 align="center">Personal Stats</h3>
-      <a align="center"><img src="https://github-readme-stats-three-tau-72.vercel.app/api/top-langs/?username=antoniop3dro&layout=donut-vertical" alt="antoniop3dro's Github stats" style="width: 35%; height: auto;"/></a>
+      <a align="center"><img src="https://github-readme-stats-git-master-antonio-pedros-projects-8c44c120.vercel.app/api/top-langs/?username=antoniop3dro&layout=donut-vertical" alt="antoniop3dro's Github stats" style="width: 35%; height: auto;"/></a>
