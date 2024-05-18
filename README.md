@@ -24,6 +24,9 @@
       <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8826100" target="_blank"><img src="https://cdn.qwiklabs.com/%2Fb6vXtWRtaGoDla7LMwPf7bX6UgDdY81abF2IU9Ouyc%3D" alt="Build a Secure Google Cloud Network" style="width: 100%; height: auto;"></a></td>
       <td><a href="https://www.cloudskillsboost.google/public_profiles/8673b99e-1d01-44d2-b24b-609c6cc28016/badges/8826934" target="_blank"><img src="https://cdn.qwiklabs.com/sJCjZDimTgyE9u1WSbBbnl5XOOupgoNQNddY2TztNKw%3D" alt="Prepare Data for ML APIs on Google Cloud" style="width: 100%; height: auto;"></a></td>
     </tr>
+    <tr>
+      <td><a href=https://www.credly.com/badges/4d212e8e-5a96-48c0-a491-12f8a9fc7aa2/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="Google Cloud Computing Foundations Certificate" style="width: 100%; height: auto;"></a></td>
+    </tr>
     </table>
 <hr>
   <h3 align="center">📊</h3><h3 align="center">Personal Stats</h3>
