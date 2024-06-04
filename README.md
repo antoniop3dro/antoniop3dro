@@ -30,4 +30,4 @@
     </table>
 <hr>
   <h3 align="center">📊</h3><h3 align="center">Personal Stats</h3>
-      <a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniop3dro&layout=donut" alt="" style="width: 35%; height: auto;"/></a>
+      <a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniop3dro&layout=donut" alt="user's languages stats"/></a>
