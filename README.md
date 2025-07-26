@@ -1,17 +1,8 @@
 <h1 align="center">☺️  Hello, World!  ☺️<p></p></h1>
-  <h3 align="center">💬</h3><h2 align="center">My name is Antonio Pedro, <br>I'm an eager-to-learn software engineer student from Brazil.<p></p></h2>
-  <h3 align="center">💻</h3><h3 align="center">Starting fresh in IT</h3>
-    <p align="center">As of now, i'm building basic projects for courses and getting the hang of programming logics.</p>
+  <h3 align="center">💬</h3><h2 align="center">My name is Antonio Pedro, <br>I'm an eager-to-learn information security student from Brazil.<p></p></h2>
 <hr>
-  <h3 align="center">🎓</h3><h3 align="center">Attending my first year of Software Engineer Bachelor's program</h3>
     <p align="center">You will find me studying at Centro Universitário Internacional - Uninter;</p>
-    <p align="center">Looking forward to learning more about web development, game development, UI/UX design and cybersecurity.</p>
-<hr>
-  <h3 align="center">🌱</h3><h3 align="center">Personal study roadmap and goal alignment</h3>
-    <p align="center">First, to work on my mathematical logic basics and principles;</p>
-    <p align="center">Second, to study CS50 to build a solid foundation on computer science;</p>
-    <p align="center">Third, to explore multiple programming languages with focus mainly in front-end development.</p>
-<hr>
+    <p align="center">Looking forward to learning more about cybersecurity.</p>
   <h3 align="center">🫰</h3><h3 align="center">Feel free to reach out!</h3>
     <p align="center">Open for comments, opinions, observations, reviews, teachings, critiques and the sorts;</p>
     <p align="center">Open to collaborating with other like-minded students who are also just starting.</p>
