@@ -1,6 +1,5 @@
 <h1 align="center">☺️  Hello, World!  ☺️<p></p></h1>
   <h3 align="center">💬</h3><h2 align="center">My name is Antonio Pedro, <br>I'm an eager-to-learn information security student from Brazil.<p></p></h2>
-<hr>
     <p align="center">You will find me studying at Centro Universitário Internacional - Uninter;</p>
     <p align="center">Looking forward to learning more about cybersecurity.</p>
   <h3 align="center">🫰</h3><h3 align="center">Feel free to reach out!</h3>
